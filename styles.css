@@ -1,3 +1,15 @@
+/*
+COLOUR VALUES
+background-color: #212a2e;
+text-color: #F7F8F8;
+link-color: #828fff;
+*/
+
+* {
+    background-color: #212a2e;
+    color: #F7F8F8;
+}
+
 p {
     font-size: 20px;
 }
