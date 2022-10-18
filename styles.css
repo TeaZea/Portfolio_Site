@@ -12,3 +12,12 @@ text-color: #F7F8F8;
 p {
     font-size: 20px;
 }
+
+.tw-display {
+    display: inline-block;
+    margin-right: -5px;
+}
+
+.cursor {
+    display: inline-block;
+}
