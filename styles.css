@@ -16,6 +16,7 @@ text-color: #F7F8F8;
 .tw-display {
     display: inline-block;
     margin-right: -20px;
+    margin-bottom: 100px;
     font-family: 'Roboto Mono', monospace;
     font-size: 90px;
 }
@@ -39,10 +40,21 @@ text-color: #F7F8F8;
 
 .sub-headings {
     font-size: 25px;
+    margin-bottom: 25px;
 }
 
 #aboutme {
     margin-bottom: 100px;
+}
+
+.exp {
+    margin-bottom: 100px;
+}
+
+.list-group, .list-group-item {
+    background-color: #212a2e;
+    color:#F7F8F8;
+    border-color: #F7F8F8;
 }
 
 #projectsexp {
