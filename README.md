@@ -39,4 +39,5 @@ Changelog 1.0
   - Added About Me section.
   - Optimized cards in Projects + EXP. Changed the background of cards.
   - Added a copy to clipboard button to copy my email.
+  - Added and created layout for the Projects + EXP > languages used and linkedIn quote section. Also edited the style of the list.
     }
