@@ -10,6 +10,7 @@ Challenges {
 - Proper, well written content.
 - Ways to make the site interactive without over-doing it.
 - Hosting applications/projects on a ghost page.
+- Optimize JS typewriter effect for mobile properly.
 
 }
 
@@ -32,4 +33,10 @@ Changelog 1.0
   10.26.2022 {
 
   - Added descriptions and links to cards in the Projects + EXP section. Also added rel="" to the link to prevent any malicious attack.
+  - Finished basic layout.
+  - Enlarged JS typewriter font.
+  - Completed and centered the JS and intro div. Also added an intro blurb.
+  - Added About Me section.
+  - Optimized cards in Projects + EXP. Changed the background of cards.
+  - Added a copy to clipboard button to copy my email.
     }
