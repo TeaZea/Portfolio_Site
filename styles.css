@@ -57,3 +57,7 @@ text-color: #F7F8F8;
 .card-body, .card-text, .card {
     background-color: #2f3b41;
 }
+
+footer {
+    font-size: 12px;
+}
