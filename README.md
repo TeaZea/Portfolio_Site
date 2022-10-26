@@ -8,6 +8,8 @@ Challenges {
 
 - Keeping the navbar fixed to the DOM as the user scrolls up or down the page.
 - Proper, well written content.
+- Ways to make the site interactive without over-doing it.
+- Hosting applications/projects on a ghost page.
 
 }
 
@@ -26,3 +28,8 @@ Changelog 1.0
 - Added JS Typewriter effect, added IDs for navigation, edited nav-bar (current page), added font for typewriter effect, added universal font style.
 
   }
+
+  10.26.2022 {
+
+  - Added descriptions and links to cards in the Projects + EXP section. Also added rel="" to the link to prevent any malicious attack.
+    }
