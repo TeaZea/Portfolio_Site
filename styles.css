@@ -32,7 +32,19 @@ text-color: #F7F8F8;
 }
 
 .intro-div {
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 200px;
+    text-align: center;
+}
+
+.sub-headings {
+    font-size: 25px;
+}
+
+#aboutme {
+    margin-bottom: 100px;
+}
+
+.card-title {
     text-align: center;
 }
