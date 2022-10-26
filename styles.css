@@ -11,7 +11,6 @@ text-color: #F7F8F8;
     background-color: #212a2e;
     color: #F7F8F8;
     font-family: 'Roboto Slab', serif;
-    font-size: 20px;
 }
 
 .tw-display {
@@ -29,5 +28,11 @@ text-color: #F7F8F8;
 }
 
 .tw-div {
-    padding: 100px 0px;
+    margin: 200px 0px 25px 0px;
+}
+
+.intro-div {
+    font-size: 20px;
+    margin-bottom: 200px;
+    text-align: center;
 }
