@@ -18,12 +18,16 @@ text-color: #F7F8F8;
     display: inline-block;
     margin-right: -20px;
     font-family: 'Roboto Mono', monospace;
-    font-size: 60px;
+    font-size: 90px;
 }
 
 .cursor {
     display: inline-block;
     font-size: 22px;
     font-family: 'Roboto Mono', monospace;
-    font-size: 65px;
+    font-size: 100px;
+}
+
+.tw-div {
+    padding: 100px 0px;
 }
