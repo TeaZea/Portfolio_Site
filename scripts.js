@@ -11,6 +11,7 @@ function typeWriter() {
   }
 }
 
+
 // Blinking cursor effect
 let blink_speed = 1000;
 let t = setInterval(function () {
@@ -18,6 +19,8 @@ let t = setInterval(function () {
     ele.style.visibility = (ele.style.visibility == 'hidden' ? '' : 'hidden');
 }, blink_speed);
 
+
+// Website animation
 function reveal() {
   let reveals = document.querySelectorAll(".reveal");
   for (let i = 0; i < reveals.length; i++) {
@@ -32,11 +35,11 @@ function reveal() {
   }
 };
 
-window.addEventListener("scroll", reveal);
-
 // To check the scroll position on page load
+window.addEventListener("scroll", reveal);
 reveal();
 
+// Copy email to clipboard
 function myEmail() {
   const email = "sena.stefano@gmail.com";
 
