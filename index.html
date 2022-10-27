@@ -32,14 +32,14 @@
           </div>
           
           <!-- Intro -->
-          <div class="intro-div">
+          <div class="intro-div" id="aboutme">
             <h1>welcome</h1>
             <p>My name is Stefano, an aspiring Software Developer with CMS and marketing experience. I've been self-teaching full time, with the help of CS50, other online resources and a small network of professional developers to help guide me on my journey. As of right now, I have a preference for frontend development. I'm dedicated to writing clear and beautiful code and adapt quickly to situations. I'm a huge tech nerd and strive to find innovative and creative solutions to challenges.</p>
           </div>
         </div>
 
         <!-- About Me Blurb + LinkedIn -->
-        <div class="reveal" id="aboutme">
+        <div class="reveal aboutme">
           <p class="sub-headings">some stuff and things about me</p>
           <p>I am a proud Canadian with Italian heritage, currently living in Toronto, Ontario with my very okay wife and our two cats. Not only am I a huge tech nerd, but also a pretty big gamer (who would have guessed). When I’m not defending Azeroth, I enjoy the company of friends and family, watching the Toronto Maple Leafs lose and just generally going with the flow.
             <br><br>
@@ -69,7 +69,7 @@
               <li class="d-flex justify-content-between list-group-item">currently learning<img src="images/react.png" alt="React. Original icon from flaticon.com" width="26" height="26"></li>
               <li class="list-group-item d-flex justify-content-between">backend
                 <!-- Backend logos -->
-                <div>
+                <div id="projectsexp">
                   <img src="images/python.png" alt="Python. Original icon from flaticon.com" width="26" height="26">
                   <img src="images/flask.png" alt="Flask. Original icon from flaticon.com" width="26" height="26">
                   <img src="images/sql.png" alt="SQL. Original icon from flaticon.com" width="26" height="26">
@@ -89,7 +89,7 @@
         </div>
 
         <!-- Projects and links to github -->
-        <div class="row d-flex justify-content-around" id="projectsexp">
+        <div class="row d-flex justify-content-around projectsexp">
           <div class="col-sm-12 card" style="width: 18rem;">
             <div class="card-body">
               <h5 class="card-title">Portfolio Site</h5>
@@ -114,10 +114,21 @@
         </div>
 
         <!-- Contact -->
-        <div id="contact">
-          <!-- Email (plus copy to clipboard button), link to linkedIn and github -->
-          <p id="myInput">sena.stefano@gmail.com</p>
-          <button onclick="myEmail()" class="btn btn-primary">Copy Email</button>
+        <div  id="contact" class="row contact-div">
+          <div class="col-md-12 contact-method">
+            <img src="images/Gmail.png" class="img-margin" alt="gmail. Original icon from commons.wikimedia.org" width="100" height="100">
+            <!-- Email (plus copy to clipboard button), link to linkedIn and github -->
+            <p id="myInput" class="sub-headings">sena.stefano@gmail.com</p>
+            <button onclick="myEmail()" class="btn btn-primary contact-method">Copy Email</button>
+          </div>
+          <div class="contact-method">
+            <img src="images/github.png" class="img-margin" alt="github. Original icon from commons.wikimedia.org" width="100" height="100">
+            <p class="sub-headings"><a href="https://github.com/TeaZea" target="_blank">github</p></a>
+          </div>
+          <div>
+            <img src="images/linkedin.png" class="img-margin" alt="linkedin. Original icon from commons.wikimedia.org" width="100" height="100">
+            <p class="sub-headings"><a href="https://www.linkedin.com/in/stefano-sena-496b2629/" target="_blank">linkedIn</p></a>
+          </div>
         </div>
         
         <!-- Footer -->
