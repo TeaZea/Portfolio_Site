@@ -13,6 +13,18 @@ text-color: #F7F8F8;
     font-family: 'Roboto Slab', serif;
 }
 
+.nav-height {
+    height: 65px;
+}
+
+.nav-link {
+    color: #F7F8F8;
+}
+
+.nav-colour {
+    background-color:  #212a2e;
+}
+
 /* Web animation classes */
 .reveal{
     position: relative;
