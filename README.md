@@ -33,20 +33,22 @@ Changelog 1.0
 
   10.26.2022 {
 
-  - Added descriptions and links to cards in the Projects + EXP section. Also added rel="" to the link to prevent any malicious attack.
-  - Finished basic layout.
-  - Enlarged JS typewriter font.
-  - Completed and centered the JS and intro div. Also added an intro blurb.
-  - Added About Me section.
-  - Optimized cards in Projects + EXP. Changed the background of cards.
-  - Added a copy to clipboard button to copy my email.
-  - Added and created layout for the Projects + EXP > languages used and linkedIn quote section. Also edited the style of the list.
-    }
+- Added descriptions and links to cards in the Projects + EXP section. Also added rel="" to the link to prevent any malicious attack.
+- Finished basic layout.
+- Enlarged JS typewriter font.
+- Completed and centered the JS and intro div. Also added an intro blurb.
+- Added About Me section.
+- Optimized cards in Projects + EXP. Changed the background of cards.
+- Added a copy to clipboard button to copy my email.
+- Added and created layout for the Projects + EXP > languages used and linkedIn quote section. Also edited the style of the list.
+  }
 
-    10.27.2022 {
+  10.27.2022 {
 
-    - Added images file, with the edited logos for the website.
-    - Added logos and layout to 'what I use' section and optimized.
-    - Added EXP section quote with link to linkedIn.
-    - Added original photo directory to images directory.
-      }
+- Added images file, with the edited logos for the website.
+- Added logos and layout to 'what I use' section and optimized.
+- Added EXP section quote with link to linkedIn.
+- Added original photo directory to images directory.
+- Added page animations to sections.
+- Completed 'contact' section with links, and images. Added new classes for layout, added proper on-page links.
+  }
