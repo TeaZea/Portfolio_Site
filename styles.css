@@ -13,6 +13,7 @@ text-color: #F7F8F8;
     font-family: 'Roboto Slab', serif;
 }
 
+/* Web animation classes */
 .reveal{
     position: relative;
     transform: translateY(150px);
