@@ -7,9 +7,10 @@ This is the first iteration of my portfolio site. It is a one page site, with li
 Challenges {
 
 - Keeping the navbar fixed to the DOM as the user scrolls up or down the page.
-- Proper, well written content.
+- Proper, well written content. (10.27.2022)
 - Ways to make the site interactive without over-doing it.
 - Hosting applications/projects on a ghost page.
+- Optomizing 'what I use' section logos for mobile.(10.27/2022)
 - Optimize JS typewriter effect for mobile properly.
 
 }
@@ -41,3 +42,11 @@ Changelog 1.0
   - Added a copy to clipboard button to copy my email.
   - Added and created layout for the Projects + EXP > languages used and linkedIn quote section. Also edited the style of the list.
     }
+
+    10.27.2022 {
+
+    - Added images file, with the edited logos for the website.
+    - Added logos and layout to 'what I use' section and optimized.
+    - Added EXP section quote with link to linkedIn.
+    - Added original photo directory to images directory.
+      }
