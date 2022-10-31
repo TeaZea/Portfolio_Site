@@ -52,3 +52,8 @@ Changelog 1.0
 - Added page animations to sections.
 - Completed 'contact' section with links, and images. Added new classes for layout, added proper on-page links.
   }
+
+  10.31.2022 {
+
+  - Added third midnight blue colour as a little accent as the button backgrounds.
+  - }
