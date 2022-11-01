@@ -4,7 +4,7 @@ My portfolio site 1.0
 
 This is the first iteration of my portfolio site. It is a one page site, with links in the navbar moving the user around the page. Content will be basic and straight-forward. An about me section, a summary of my educational journey, links to github repos (hopefully to be hosted as well on ghost page) and of course a contact section.
 
-**CURRENTLY, COPY EMAIL BUTTON DOES NOT WORK**
+The website is run as a static site using S3 bucket from AWS and Route 53 DNS server. Unfortunatly at this time I'm having trouble with Cloudfront and the Certificate Manager while trying to get a custom SSL to work properly.
 
 Challenges {
 
@@ -12,7 +12,7 @@ Challenges {
 - Proper, well written content. (10.27.2022)
 - Basic Web animation. (10.27.2022)
 - Hosting applications/projects on a 'ghost page', something hosted on AWS. (11.1.2022)
-- Allowing objects to be copy + pasted to clipboard (permission problem).
+- **CURRENTLY, COPY EMAIL BUTTON DOES NOT WORK** Allowing objects to be copy + pasted to clipboard (permission problem).
 - Optomizing 'what I use' section logos for mobile.(10.27/2022)
 - Optimize JS typewriter effect for mobile properly.
 
