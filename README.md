@@ -9,7 +9,8 @@ Challenges {
 - Keeping the navbar fixed to the DOM as the user scrolls up or down the page. (10.27.2022)
 - Proper, well written content. (10.27.2022)
 - Basic Web animation. (10.27.2022)
-- Hosting applications/projects on a 'ghost page', something hosted on AWS.
+- Hosting applications/projects on a 'ghost page', something hosted on AWS. (11.1.2022)
+- Allowing objects to be copy + pasted to clipboard (permission problem).
 - Optomizing 'what I use' section logos for mobile.(10.27/2022)
 - Optimize JS typewriter effect for mobile properly.
 
