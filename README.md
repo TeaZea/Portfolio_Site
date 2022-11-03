@@ -13,10 +13,21 @@ Challenges {
 - Basic Web animation. (10.27.2022)
 - Hosting applications/projects on a 'ghost page', something hosted on AWS. (11.1.2022)
 - **CURRENTLY, COPY EMAIL BUTTON DOES NOT WORK** Allowing objects to be copy + pasted to clipboard (permission problem).
+- Give permissions to buttons to copy and paste in AWS.
 - Optomizing 'what I use' section logos for mobile.(10.27/2022)
-- Optimize JS typewriter effect for mobile properly.
 
 }
+
+---
+
+Changelog 1.1
+
+11/3/2022 {
+
+- Commented out 'copy email' button as I don't know how to generate proper JSON permission script for AWS.
+- Fixed spelling errors. Removed Figma icon from frontend languges.
+
+  }
 
 ---
 
